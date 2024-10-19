@@ -3,5 +3,7 @@ D:\c++ implementations\Minecraft\EBO.h;D:\c++ implementations\Minecraft\Minecraf
 D:\c++ implementations\Minecraft\glad.c;D:\c++ implementations\Minecraft\Minecraft\x64\Debug\glad.obj
 D:\c++ implementations\Minecraft\Main.cpp;D:\c++ implementations\Minecraft\Minecraft\x64\Debug\Main.obj
 D:\c++ implementations\Minecraft\shaderClass.cpp;D:\c++ implementations\Minecraft\Minecraft\x64\Debug\shaderClass.obj
+D:\c++ implementations\Minecraft\stb.cpp;D:\c++ implementations\Minecraft\Minecraft\x64\Debug\stb.obj
+D:\c++ implementations\Minecraft\Texture.cpp;D:\c++ implementations\Minecraft\Minecraft\x64\Debug\Texture.obj
 D:\c++ implementations\Minecraft\VAO.cpp;D:\c++ implementations\Minecraft\Minecraft\x64\Debug\VAO.obj
 D:\c++ implementations\Minecraft\VBO.cpp;D:\c++ implementations\Minecraft\Minecraft\x64\Debug\VBO.obj
