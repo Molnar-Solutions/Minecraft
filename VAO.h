@@ -10,9 +10,12 @@ public:
 	GLuint ID;
 	VAO();
 
-	void LinkVBO(VBO VBO, GLuint layout);
+	void LinkAttrib(VBO& VBO, GLuint layout,
+		GLuint numComponents, GLenum type,
+		GLsizeiptr stride, void* offset);
+	void DisableAttrib(GLuint index);
 	void Bind();
-	void UnBind();
+	void Unbind();
 	void Delete();
 };
 

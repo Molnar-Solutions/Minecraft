@@ -1,5 +1,3 @@
 ﻿  Main.cpp
-  shaderClass.cpp
-  Generating Code...
 Minecraft\x64\Debug\EBO.obj : warning LNK4042: object specified more than once; extras ignored
   Minecraft.vcxproj -> D:\c++ implementations\Minecraft\x64\Debug\Minecraft.exe
